@@ -1,0 +1,70 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 50px;
+    height: 100vh;
+    align-items: center;
+    background:     linear-gradient(45deg, #00447C 0%, transparent 40%),
+    linear-gradient(-45deg, #0072CE 20%, transparent 50%),
+    linear-gradient(135deg, #F2F2F2 10%, transparent 60%),
+    linear-gradient(-135deg, #FFFFFF 30%, transparent 70%);
+}
+
+h1 {
+    color: #0072CE;
+    font-weight: 900;
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+
+#loginForm {
+    color: #0072CE;
+    font-weight: 600;
+}
+
+#saldo {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: darkblue;
+    font-weight: 800;
+}
+
+.nav-item {
+    font-weight: 600;
+}
+
+p{
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 70px;
+    color: #0072CE;
+}
+
+
+input {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 30px;
+    font-weight: 600;
+    color: #00447C;
+}
+
+button {
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 30px;
+    font-weight: 700;
+    color: #0072CE;
+}
+
+button:hover{
+    background-color: lightblue;
+}
+
+#agradecimiento{
+    font-size: 20px;
+    color:#0072CE;
+    font-weight: 600;
+    margin-top: 900px;
+}
